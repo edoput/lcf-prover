@@ -1,0 +1,6 @@
+(library
+  (name Normal))
+
+(toplevel
+  (name prover)
+  (libraries Normal))
